@@ -1,0 +1,21 @@
+{"path":"E:\\PluralSight\\Qt\\Intro_Qt_Course\\Post",
+ "shortId":"qt-intro",
+ "courseId":"introduction-qt-cplusplus-framework",
+ "author":"tod-gentille",
+ "createFullCourse":true,
+ "fullCourseDestinationPrefix":"E:\\DropBox\\tod-gentille-test",
+ "metaSuffix":".meta",
+ "modulePrefix":"-m",
+ "maxQuestionLength":150,
+ "maxAnswerLength":100,
+ "demoFiles":["no-demos.txt","Demos.zip"],
+ "questionFiles":["no-questions.txt","questions.txt"],
+ "slideFiles":["slides.ppt", "slides.pptx", "slides.pdf"],
+ "validQuestionFileIndex":1,
+ "questionStart":"Q)",
+ "answerStart":"*",
+ "discriminatorStart":"-",
+ "moduleLinkStart":"=",
+ "questionFileComment":"#"
+
+ }
